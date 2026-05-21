@@ -19,6 +19,6 @@ This project is a personal take on the Netflix web interface. My main focus was 
 Want to run this locally? Just follow these steps:
 
 ## 📦 Setup & Installation
-1.Clone this repository to your local machine.
-2.Run npm install to install dependencies.
-3.Run npm run dev to start the development server.
+1. Clone this repository to your local machine.
+2. Run `npm install` to install dependencies.
+3. Run `npm run dev` to start the development server.
