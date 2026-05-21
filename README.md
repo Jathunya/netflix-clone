@@ -1,4 +1,5 @@
 # 🎬 Netflix Clone
+<img width="1366" height="730" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/9dae1b95-a5cf-4cae-9e9a-f338575c6ec0" />
 
 A cinematic streaming interface built to practice layout precision, advanced navigation, and modern UI design principles.
 
